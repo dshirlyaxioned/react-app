@@ -1,4 +1,4 @@
-package com.navproj;
+package com.test.notification;
 
 import com.facebook.react.ReactActivity;
 
